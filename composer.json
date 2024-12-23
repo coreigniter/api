@@ -1,0 +1,18 @@
+{
+    "name": "coreigniter/api",
+    "description": "CoreIgniter API Skeleton",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antoan Valchev",
+            "email": "antoan@valchev.io"
+        }
+    ],
+    "require": {}
+}
